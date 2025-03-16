@@ -1,0 +1,9 @@
+{
+    "ResidentEnable": false,
+    "ResidentLang": ["Russian"],
+    "ResidentTime": ["Yekaterinburg"],
+    "ResidentLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
