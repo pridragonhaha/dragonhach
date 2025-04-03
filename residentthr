@@ -1,9 +1,9 @@
 {
-    "ResidentEnable": false,
-    "ResidentLang": ["Russian"],
-    "ResidentTime": ["Yekaterinburg"],
+    "ResidentEnable": true,
+    "ResidentLang": ["Portuguese"],
+    "ResidentTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "ResidentLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wgxql.com/casino/list?open=register&p=91lq"]}
     ]
  }
